@@ -49,3 +49,25 @@ I like tourism, technologies and communications with interested humans. So i dev
             }
         }
         ```
+* ## Work experience.
+In 2019 within 10 months I worked as developer of simple SIEM system where i was the only one in frontend dev :D. Sometimes i work in this project on small tasks.
+Now i understand that i need it elder developer for my provessional growth.   
+* ## Education.
+    - My basic education is BMSTU "Radioelectronic complexes and systems".
+    - I learned some courses:
+      * at [htmlacademy](https://htmlacademy.ru/profile/id1064203)
+      * [stepic_algorithms_and_data_structures](https://stepik.org/cert/377088)
+      * [stepic_cpp](https://stepik.org/cert/377088)
+    - I read [learn.javascript.ru online book](https://learn.javascript.ru/)
+    - Books: 
+      * "html css" Jon Duckett,
+      * "javascript: the good parts" douglas crockford, 
+      * "javascript for kids" Nick Morgan,
+      * "javascript design patterns" Stoyan Stefanov
+    - Cources:
+      * [JS D.Lavrik](https://coursehunter.net/course/javascript-intensivnyy-kurs-dlya-verstalshchikov-ot-dmitriya-lavrika)
+      * [Practical HTML](https://coursehunter.net/course/prakticheskiy-html)
+* ## English.
+    What about english?
+    - I was in ["Tsinghua Summer School"](https://scholarshipscorner.website/tsinghua-international-summer-school/) in July 2017;
+    - I passed that [cource](https://vk.com/ct.school) (without sertification).
